@@ -2,5 +2,3 @@ demo/
 ng-demo/
 dist/
 node_modules/
-*.ts
-!*.d.ts
