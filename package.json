@@ -42,7 +42,7 @@
     "devDependencies": {
         "tns-core-modules": "^3.0.0",
         "tns-platform-declarations": "^3.0.0",
-        "typescript": "^2.2.2"
+        "typescript": "^3.4.5"
     },
     "peerDependencies": {
         "tns-core-modules": "^3.0.0 || >=4.0.0 || >=4.1.0"
